@@ -5,7 +5,7 @@
   <!-- Typing SVG Animation -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Generative+AI;Deep+Learning;Computer+Vision;Autonomous+Systems;Robotics+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
   
-  [![LinkedIn - Open to AI Engineering Opportunities](https://img.shields.io/badge/LinkedIn-Open_to_AI_Opportunities-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-marghadi/)
+  [![LinkedIn - Profile](https://img.shields.io/badge/LinkedIn-Open_to_AI_Opportunities-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-marghadi/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar3.marghadi@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omvriio)
   
@@ -76,7 +76,6 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omvriio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omvriio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
