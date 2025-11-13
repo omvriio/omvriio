@@ -133,7 +133,7 @@ I'm always interested in collaborating on AI projects, discussing research ideas
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar3.marghadi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omvriio)
 
-**Open to AI Engineering Opportunities | Paris, France**
+**Open to AI Engineering Opportunities | Europe**
 
 </div>
 
