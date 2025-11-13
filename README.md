@@ -117,11 +117,7 @@ print(me.say_hi())
 
 <div align="center">
 
-| Language | Proficiency |
-|----------|-------------|
-| 🇬🇧 English | Fluent (C2) |
-| 🇫🇷 French | Fluent (C2) |
-| 🇲🇦 Arabic | Native |
+🇬🇧 English `Fluent (C2)` • 🇫🇷 French `Fluent (C2)` • 🇲🇦 Arabic `Native`
 
 </div>
 
