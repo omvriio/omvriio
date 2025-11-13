@@ -10,9 +10,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omvriio)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=omvriio&color=blueviolet&style=for-the-badge)
-  
-  **AI Engineer | Deep Learning | Computer Vision | Autonomous Systems**
-  
+    
   *"Humans create Meaning; Machines create Possibilities."*
 
 </div>
