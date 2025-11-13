@@ -73,15 +73,12 @@
 ## GitHub Statistics
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omvriio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omvriio&theme=tokyonight&hide_border=true)
-
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omvriio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=omvriio&theme=tokyonight&hide_border=true"/></td>
+    </tr>
+  </table>
 </div>
 
 ---
