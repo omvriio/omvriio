@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 ## Technical Stack
 
 <details open>
