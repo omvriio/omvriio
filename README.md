@@ -11,7 +11,7 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=omvriio&color=blueviolet&style=for-the-badge)
   
-  *"Humans create Meaning; Machines create Possibilities."*
+  > **"Humans create Meaning; Machines create Possibilities."**
 
 </div>
 
