@@ -1,41 +1,26 @@
-# Hi there, I'm Omar  👋
+# Hi there, I'm Omar Marghadi 👋
 
 <div align="center">
   
   <!-- Typing SVG Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Deep+Learning;Computer+Vision;Robotics+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Generative+AI;Deep+Learning;Computer+Vision;Autonomous+Systems;Robotics+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-marghadi/)
+  [![LinkedIn - Open to AI Engineering Opportunities](https://img.shields.io/badge/LinkedIn-Open_to_AI_Opportunities-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-marghadi/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar3.marghadi@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omvriio)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=omvriio&color=blueviolet&style=for-the-badge)
-    
+  
   *"Humans create Meaning; Machines create Possibilities."*
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-I'm an AI Engineer passionate about building intelligent systems that bridge the gap between research and real-world applications. Currently completing my Master's in Data and AI at **École Centrale de Lyon**, I specialize in **perception systems**, **sensor fusion**, and **deep learning architectures**.
-
-- 🔭 Currently working on: Multi-floor spatial perception and anomaly detection systems
-- 🌱 Exploring: Edge AI optimization, spatiotemporal modeling, and human-AI collaboration
-- 💼 Recent: AI Robotics Research Engineer at **Orange Innovation**
-- 📍 Based in: Paris, France
-- 🎓 Double Degree: École Centrale de Lyon & Arts et Métiers (ENSAM)
-- 💬 Ask me about: Computer Vision, Sensor Fusion, Edge AI, ROS2
-
----
-
-## 💻 Technical Stack
+## Technical Stack
 
 <details open>
-<summary><b>🔤 Languages</b></summary>
+<summary><b>Languages</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,7 +31,7 @@ I'm an AI Engineer passionate about building intelligent systems that bridge the
 </details>
 
 <details open>
-<summary><b>🤖 AI/ML & Deep Learning</b></summary>
+<summary><b>AI/ML & Deep Learning</b></summary>
 <br>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -60,7 +45,7 @@ I'm an AI Engineer passionate about building intelligent systems that bridge the
 </details>
 
 <details open>
-<summary><b>🛠 Tools & Platforms</b></summary>
+<summary><b>Tools & Platforms</b></summary>
 <br>
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
@@ -74,7 +59,7 @@ I'm an AI Engineer passionate about building intelligent systems that bridge the
 </details>
 
 <details>
-<summary><b>⚡ Specialized Skills</b></summary>
+<summary><b>Specialized Skills</b></summary>
 <br>
 
 - **Computer Vision**: Object detection, pose estimation, semantic segmentation
@@ -87,13 +72,13 @@ I'm an AI Engineer passionate about building intelligent systems that bridge the
 
 ---
 
-## 🏆 Key Projects & Research
+## Key Projects & Research
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Multi-Floor Spatial Perception
+### Multi-Floor Spatial Perception
 **Orange Innovation** | *Master's Thesis*
 
 Novel approach to domestic service robot navigation:
@@ -105,7 +90,7 @@ Novel approach to domestic service robot navigation:
 </td>
 <td width="50%">
 
-### 🤝 GenAI Multi-Agent System
+### GenAI Multi-Agent System
 **Capgemini Engineering**
 
 Intelligent assistant for engineering workflows:
@@ -120,7 +105,7 @@ Intelligent assistant for engineering workflows:
 <tr>
 <td width="50%">
 
-### 👁️ Industrial Vision System
+### Industrial Vision System
 **OCP Group**
 
 Real-time ergonomics monitoring:
@@ -132,7 +117,7 @@ Real-time ergonomics monitoring:
 </td>
 <td width="50%">
 
-### 🛸 Drone Defense System
+### Drone Defense System
 **Hackathon** | *Ongoing*
 
 Autonomous delivery in crisis zones:
@@ -147,7 +132,7 @@ Autonomous delivery in crisis zones:
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   
@@ -162,44 +147,9 @@ Autonomous delivery in crisis zones:
 
 </div>
 
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omvriio&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=omvriio&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/omvriio/omvriio/output/github-contribution-grid-snake-dark.svg)
-
-<!-- You'll need to set up GitHub Actions for this - see below -->
-
----
-
-## 📚 Latest Blog Posts & Research
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section can be auto-updated with your latest blog posts -->
-- 🔬 Multi-Floor Spatial Perception for Service Robots
-- 🤖 Deep RL & Imitation Learning: A Literature Review
-- 🎯 Sensor Fusion Techniques for Autonomous Systems
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎯 Current Focus
+## Current Focus
 
 ```python
 class OmarMarghadi:
@@ -229,7 +179,7 @@ print(me.say_hi())
 
 ---
 
-## 🌐 Languages
+## Languages
 
 <div align="center">
 
@@ -243,7 +193,7 @@ print(me.say_hi())
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect
 
 <div align="center">
 
@@ -253,28 +203,13 @@ I'm always interested in collaborating on AI projects, discussing research ideas
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar3.marghadi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omvriio)
 
-**💼 Open to AI Engineering opportunities | 🌍 Paris, France**
+**Open to AI Engineering Opportunities | Paris, France**
 
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 💭 Quote of the Day
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-  ---
-  
-  ### 🎵 Spotify Playing
-  
-  [![Spotify](https://novatorem-omvriio.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-  <!-- Replace with your Spotify integration -->
-  
-  ---
-  
-  ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
   
   ⭐️ From [omvriio](https://github.com/omvriio) with 💙
 
