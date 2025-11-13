@@ -1,4 +1,4 @@
-# Hi there, I'm Omar Marghadi 👋
+# Hi there, I'm Omar 👋
 
 <div align="center">
   
