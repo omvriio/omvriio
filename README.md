@@ -7,6 +7,9 @@
   
   [![LinkedIn - Profile](https://img.shields.io/badge/LinkedIn-Open_to_AI_Opportunities-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-marghadi/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar3.marghadi@gmail.com)
+  ![Profile Views](https://komarev.com/ghpvc/?username=omvriio&color=blueviolet&style=for-the-badge)
+
+  
   <br/>
   
   <a href="https://omarmarghadi.com" target="_blank">
@@ -16,7 +19,6 @@
   <p>
     🚧 <i><b>Work in Progress:</b> Exploring the 3rd Dimension at <a href="https://omarmarghadi.com">omarmarghadi.com</a></i> 🚧
   </p>
-  ![Profile Views](https://komarev.com/ghpvc/?username=omvriio&color=blueviolet&style=for-the-badge)
   
   ## `"Humans create Meaning; Machines create Possibilities."`
 
