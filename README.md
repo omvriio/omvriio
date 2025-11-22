@@ -1,16 +1,16 @@
 # Hi there, I'm Omar 👋
 
 <div align="center">
-  
-  <!-- Typing SVG Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Generative+AI;Deep+Learning;Computer+Vision;Autonomous+Systems;Robotics+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
-  
-  [![LinkedIn - Profile](https://img.shields.io/badge/LinkedIn-Open_to_AI_Opportunities-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-marghadi/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar3.marghadi@gmail.com)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=omvriio&color=blueviolet&style=for-the-badge)
-  
-  ## `"Humans create Meaning; Machines create Possibilities."`
+  
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Generative+AI;Deep+Learning;Computer+Vision;Autonomous+Systems;Robotics+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
+  
+  [![LinkedIn - Profile](https://img.shields.io/badge/LinkedIn-Open_to_AI_Opportunities-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-marghadi/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar3.marghadi@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Website-Under_Construction_(3D)-FF8800?style=for-the-badge&logo=blender&logoColor=white)](https://omarmarghadi.com)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=omvriio&color=blueviolet&style=for-the-badge)
+  
+  ## `"Humans create Meaning; Machines create Possibilities."`
 
 </div>
 
